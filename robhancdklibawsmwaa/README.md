@@ -1,4 +1,4 @@
-# @robhan-cdk-lib/aws_aps
+# @robhan-cdk-lib/aws_mwaa
 
 AWS Cloud Development Kit (CDK) constructs for Amazon Managed Workflows for Apache Airflow (MWAA).
 
@@ -14,7 +14,7 @@ Those features are implemented here.
 
 The CDK maintainers explain that [publishing your own package](https://github.com/aws/aws-cdk/blob/main/CONTRIBUTING.md#publishing-your-own-package) is "by far the strongest signal you can give to the CDK team that a feature should be included within the core aws-cdk packages".
 
-This project aims to develop aws_aps constructs to a maturity that can potentially be accepted to the CDK core.
+This project aims to develop aws_mwaa constructs to a maturity that can potentially be accepted to the CDK core.
 
 It is not supported by AWS and is not endorsed by them. Please file issues in the [GitHub repository](https://github.com/robert-hanuschke/cdk-aws_mwaa/issues) if you find any.
 
