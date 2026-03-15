@@ -75,6 +75,7 @@ func init() {
 			_jsii_.MemberProperty{JsiiProperty: "webserverUrl", GoGetter: "WebserverUrl"},
 			_jsii_.MemberProperty{JsiiProperty: "webserverVpcEndpointService", GoGetter: "WebserverVpcEndpointService"},
 			_jsii_.MemberProperty{JsiiProperty: "weeklyMaintenanceWindowStart", GoGetter: "WeeklyMaintenanceWindowStart"},
+			_jsii_.MemberMethod{JsiiMethod: "with", GoMethod: "With"},
 		},
 		func() interface{} {
 			j := jsiiProxy_Environment{}
@@ -133,6 +134,7 @@ func init() {
 			_jsii_.MemberProperty{JsiiProperty: "webserverUrl", GoGetter: "WebserverUrl"},
 			_jsii_.MemberProperty{JsiiProperty: "webserverVpcEndpointService", GoGetter: "WebserverVpcEndpointService"},
 			_jsii_.MemberProperty{JsiiProperty: "weeklyMaintenanceWindowStart", GoGetter: "WeeklyMaintenanceWindowStart"},
+			_jsii_.MemberMethod{JsiiMethod: "with", GoMethod: "With"},
 		},
 		func() interface{} {
 			j := jsiiProxy_EnvironmentBase{}
@@ -199,6 +201,7 @@ func init() {
 			_jsii_.MemberProperty{JsiiProperty: "webserverUrl", GoGetter: "WebserverUrl"},
 			_jsii_.MemberProperty{JsiiProperty: "webserverVpcEndpointService", GoGetter: "WebserverVpcEndpointService"},
 			_jsii_.MemberProperty{JsiiProperty: "weeklyMaintenanceWindowStart", GoGetter: "WeeklyMaintenanceWindowStart"},
+			_jsii_.MemberMethod{JsiiMethod: "with", GoMethod: "With"},
 		},
 		func() interface{} {
 			j := jsiiProxy_IEnvironment{}
